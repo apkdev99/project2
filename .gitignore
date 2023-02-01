@@ -1,0 +1,23 @@
+/.idea
+
+# database backup
+backup/*
+!backup/.htaccess
+!backup/index.html
+
+# /uploads
+uploads/files/*
+!uploads/files/.htaccess
+uploads/fotos/*
+!uploads/fotos/.gitkeep
+uploads/icons/*
+!uploads/icons/.gitkeep
+uploads/posts/medium/*
+!uploads/posts/medium/.gitkeep
+uploads/posts/thumbs/*
+!uploads/posts/thumbs/.gitkeep
+uploads/thumbs/*
+!uploads/thumbs/.gitkeep
+uploads/images/*
+uploads/mobile
+uploads/sitemap.xml
