@@ -1,0 +1,6 @@
+[submodule "engine"]
+	path = engine
+	url = git@github.com:apkdev99/engine.git
+[submodule "language"]
+	path = language
+	url = git@github.com:apkdev99/language.git
